@@ -1,2 +1,2 @@
-# sandbox
-repo to learn new things
+# repo
+repo to be confident using Git
